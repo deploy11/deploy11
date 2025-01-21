@@ -1,22 +1,37 @@
-👋 Hello, I'm @deploy11
-👀 Interests
-I’m passionate about technology, programming, and building innovative solutions. I enjoy exploring web development, backend systems, and AI-based projects.
+Hi there, I'm Nuraziz Narziqulov! 👋
 
-🌱 Currently Learning
-Advanced web development frameworks (e.g., Django, FastAPI).
-Exploring cloud computing and containerization tools like Docker and Kubernetes.
-Experimenting with machine learning and data analysis.
-💞️ Looking to Collaborate On
-Open-source projects in backend development or API design.
-Building tools to simplify software development.
-Creative and challenging projects that push the boundaries of technology.
-📫 How to Reach Me
-Feel free to connect with me:
+About Me
 
-Email: deploygit11@gmail.com
-GitHub: @deploy11
-😄 Pronouns
-He/Him
+Hello! I'm a 14-year-old developer specializing in backend development and API creation. 🚀
 
-⚡ Fun Fact
-I believe every bug in code is just an opportunity to learn and improve! 🚀
+Skills 🛠️
+
+Frameworks: Django, Django REST Framework, Vue.js, Svelte, React Native
+
+APIs: RESTful APIs, third-party integrations 🌐
+
+Tools: Linux, Kali Linux, GitHub 🖥️
+
+Other: UI/UX design, deployment, database management 🎨
+
+Projects 📂
+
+Sirdaryo Murojaatlar Tizimi: Manages citizen requests efficiently. 📝
+
+Sirdaryo Ko'mir Ta'minot: Streamlines coal distribution. 🏭
+
+Freelance Projects: Custom software for local governance. 🤝
+
+Current Work 💼
+
+Developer at NurazizCom, creating tailored software for government clients.
+
+Get in Touch 🌐
+
+GitHub: github.com/deploy11 🐙
+
+Email: deploygit11@gmail.com ✉️
+
+linkedin: linkedin.com/in/nuraziz-narziqulov 🌟
+
+Let’s build something amazing together! 🚀
