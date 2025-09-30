@@ -2,7 +2,7 @@ Hi there, I'm Nuraziz Narziqulov! 👋
 
 About Me
 
-Hello! I'm a 14-year-old developer specializing in backend development and API creation. 🚀
+Hello! I'm a 15-year-old developer specializing in backend development and API creation. 🚀
 
 Skills 🛠️
 
