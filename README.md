@@ -10,7 +10,7 @@ Frameworks: Django, Django REST Framework, Vue.js, Svelte, React Native
 
 APIs: RESTful APIs, third-party integrations 🌐
 
-Tools: Linux, Kali Linux, GitHub 🖥️
+Tools: Linux, Kali Linux, GitHub, arch linux, debain 12 vps proxmox vpn networks  🖥️
 
 Other: UI/UX design, deployment, database management 🎨
 
